@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/* HEADER */
+#logo{
+    width: 300px;
+}
+
+#carouselExampleCaptions{
+    height: 800px;
+}
+
+#imagenes img {
+   height: 800px;
+   opacity: 0.6;
+}
